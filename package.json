@@ -1,0 +1,11 @@
+{
+    "name": "homework6",
+    "description" : "uses redis to implement HW5",
+    "version" : "0.0.1",
+    "dependencies":
+    {
+        "express":"*",
+        "body-parser":"*",
+		"redis":"0.9.x"        
+    }
+}
